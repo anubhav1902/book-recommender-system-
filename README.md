@@ -4,8 +4,6 @@ A simple book recommender system that suggests books to users based on their pre
 
 ## Features
 - Personalized Recommendations: Recommends books to users based on their ratings and similarities to other users.
-- User Registration: Users can create accounts and provide information about their reading preferences.
-- Book Ratings: Users can rate books they have read, contributing to the recommendation algorithm.
 - Search Functionality: Allows users to search for specific books and view details about them.
 
 ## Usage
